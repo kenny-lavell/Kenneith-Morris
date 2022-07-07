@@ -5,6 +5,7 @@
 ✨ A Little About Me ✨
 
 I have 7 years in the supply field. I created my GitHub to expand my knowledge in other areas of analysis.
+
 👨🏾‍🎓 Associates in Supervisory Leadership
 
 📊 Transition to Data Analytics in July 2022
