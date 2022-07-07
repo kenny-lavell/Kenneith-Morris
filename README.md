@@ -1,7 +1,6 @@
 ![Supply analyst, and Data analyst projects](https://www.swg.com/usa/wp-content/uploads/sites/34/2017/02/Blog-Digital-transformation-in-fm-banner.jpg)
 ### Hi there 👋,  
 #### Supply analyst, and Data analyst projects
-![Supply analyst, and Data analyst projects](https://www.swg.com/usa/wp-content/uploads/sites/34/2017/02/Blog-Digital-transformation-in-fm-banner.jpg)
 
 Hello, my name is Kenneith and I have 7 years in the supply field. I created my GitHub to expand my knowledge in other areas of analysis.
 
