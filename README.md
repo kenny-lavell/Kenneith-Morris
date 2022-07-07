@@ -4,7 +4,10 @@
 
 Hello, my name is Kenneith and I have 7 years in the supply field. I created my GitHub to expand my knowledge in other areas of analysis.
 
-Skills: SQL/ Python/ Tableau
+Skills: 
+💻SQL
+📝Python
+📈Tableau
 
 - 🔭 I’m currently working on this page. 
 
