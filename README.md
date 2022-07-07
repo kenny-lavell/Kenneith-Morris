@@ -8,7 +8,7 @@ Skills: SQL/ Python/ Tableau
 
 - 🔭 I’m currently working on this page. 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kenny-lavell)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Kenneith Morris/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='240'>](https://github.com/kenny-lavell)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='240'>](https://www.linkedin.com/in/Kenneith Morris/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kenny-lavell&show_icons=true)  
 
