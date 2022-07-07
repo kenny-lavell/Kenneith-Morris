@@ -1,4 +1,4 @@
-(https://www.swg.com/usa/wp-content/uploads/sites/34/2017/02/Blog-Digital-transformation-in-fm-banner.jpg)
+!(https://www.swg.com/usa/wp-content/uploads/sites/34/2017/02/Blog-Digital-transformation-in-fm-banner.jpg)
 
 ### Hi there 👋, my name is Kenneith Morris
 #### Supply analyst, and Data analyst projects
