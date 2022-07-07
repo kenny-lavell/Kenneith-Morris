@@ -1,8 +1,6 @@
-!(https://www.swg.com/usa/wp-content/uploads/sites/34/2017/02/Blog-Digital-transformation-in-fm-banner.jpg)
-
 ### Hi there 👋, my name is Kenneith Morris
-#### Supply analyst, and Data analyst projects
-![Supply analyst, and Data analyst projects]
+![my name is Kenneith Morris]
+!(https://www.swg.com/usa/wp-content/uploads/sites/34/2017/02/Blog-Digital-transformation-in-fm-banner.jpg)
 
 7 years in the supply field. Created my GitHub to expand my knowledge in other areas of analysis.
 
