@@ -1,4 +1,4 @@
-!(https://www.swg.com/usa/wp-content/uploads/sites/34/2017/02/Blog-Digital-transformation-in-fm-banner.jpg)
+![Supply analyst, and Data analyst projects](https://www.swg.com/usa/wp-content/uploads/sites/34/2017/02/Blog-Digital-transformation-in-fm-banner.jpg)
 ### Hi there 👋,  
 #### Supply analyst, and Data analyst projects
 ![Supply analyst, and Data analyst projects](https://www.swg.com/usa/wp-content/uploads/sites/34/2017/02/Blog-Digital-transformation-in-fm-banner.jpg)
