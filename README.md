@@ -1,12 +1,12 @@
-![Supply analyst, and Data analyst projects](https://www.swg.com/usa/wp-content/uploads/sites/34/2017/02/Blog-Digital-transformation-in-fm-banner.jpg)
+![Supply Chain analyst, and Data analyst projects](https://www.swg.com/usa/wp-content/uploads/sites/34/2017/02/Blog-Digital-transformation-in-fm-banner.jpg)
 ### Hi there 👋,  
 #### Kenneith Morris
 
 ✨ A Little About Me ✨
 
-I have 7 years in the supply field. I created my GitHub to expand and show my knowledge in other areas of analysis.
+I have 8 years in the Supply Chain field. I created my GitHub to expand and show my knowledge in other areas of analysis.
 
-👨🏾‍🎓 Associates of Science in Supervisory Leadership
+👨🏾‍🎓 Associates of Science in Supervisory Leadership, and currently obtaining Bachelors in Business Administration with a specilazation in Supply chain management.
 
 📊 Transition to Data Analytics in July 2022
 
